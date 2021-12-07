@@ -1,2 +1,4 @@
 # bankist-functional
-this is a bankist application simulation
+# live-link
+
+https://bankistfunc-onurutku.netlify.app/
